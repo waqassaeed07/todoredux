@@ -1,0 +1,48 @@
+#title{
+    padding-top: 70px;
+    text-transform: uppercase;
+    color:white;
+    font-size:3.5em;
+    margin-left: -400px;
+  
+}
+#times{
+    color:white;
+    font-size:1em;
+}
+/* default setting end */
+.tablee{
+    margin-top:100px;
+}
+.addnewthingsforms{
+    color:rgb(247, 78, 106);
+    float: left;
+}
+#todotitleinput{
+    width:80%;
+    height:40px;
+    border:1px solid grey;
+    border-radius:25px;
+    padding-left:5%;
+    float: left;
+    
+}
+#todoDescriptiontextarea{
+    width:80%;
+    height:200px;
+    border:1px solid grey;
+    border-radius:25px;
+    padding-left:5%;
+    margin-left: -200px;
+    
+
+}
+#formsubmitbutton{
+    background-color: rgb(247, 78, 106);
+    color:white;
+    padding:10px;
+    border:none;
+    border-radius: 25px;
+    float: left;
+    margin-left: 50px;
+}
